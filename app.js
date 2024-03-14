@@ -45,7 +45,7 @@ function calculateAge(){
     if(m3 < 0){
     m3 = 11;
     y3--;}
-    result.innerHTML = `You are ${y3} years , ${m3} months and ${d3} days old`;
+    result.innerHTML = `<i class="fa-solid fa-user"></i> You are ${y3} years , ${m3} months and ${d3} days old.`;
 }
 
 

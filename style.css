@@ -2,4 +2,53 @@
 padding: 0;
 box-sizing: border-box;}
 
+html{font-size: 62.5%;}
 
+
+
+.body-bg{background-image: linear-gradient(to bottom right ,  #5d3fc5 , #6f6bd9, #7f93ea);
+    background-repeat: no-repeat;
+    min-height: 100vh;
+margin-top: 200px;}
+
+
+
+.heading{font-family: Anton;
+font-size:7rem;
+letter-spacing: 3px;
+font-weight: 600;
+color: #feff77;
+}
+
+.border-left{
+    border-left:10px solid #feff77;
+}
+
+.box{
+    font-size: 3rem;
+    margin-top: 100px;    
+}
+
+.box input{padding: 10px 20px;
+width: 300px;
+border: 0;
+border-radius: 15px;}
+
+.box button{background-color: #feff77;
+color: black;
+font-family: Arial, Helvetica, sans-serif;
+padding: 10px 20px;
+border: 0;
+border-radius: 15px;}
+
+.box button:hover{background-color: #fcfc02;}
+
+.result{color: white;}
+
+.footer{position:fixed;
+bottom: 0;
+background-color: black;
+color: white;
+width: 100%;
+text-align: center;
+padding:10px 15px ;}
