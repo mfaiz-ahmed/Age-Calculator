@@ -6,7 +6,7 @@ html{font-size: 62.5%;}
 
 
 
-.body-bg{background-image: linear-gradient(to bottom right ,  #5d3fc5 , #6f6bd9, #7f93ea);
+.body-bg{background-image: linear-gradient(to bottom right ,  #0077b6 , #00b4d8, #90e0ef , #caf0f8);
     background-repeat: no-repeat;
     min-height: 100vh;
 margin-top: 200px;}
@@ -43,7 +43,6 @@ border-radius: 15px;}
 
 .box button:hover{background-color: #fcfc02;}
 
-.result{color: white;}
 
 .footer{position:fixed;
 bottom: 0;
